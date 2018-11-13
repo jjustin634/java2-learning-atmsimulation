@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="atmMachine:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/atmMachine_jar</output-path>
+    <root id="archive" name="atmMachine.jar">
+      <element id="module-output" name="atmMachine" />
+    </root>
+  </artifact>
+</component>
