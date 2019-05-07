@@ -1,11 +1,7 @@
 # java2-learning-atmsimulation
 
-*atm machine simulation*
-
 ## Intro
-This Program allows the user to create their own test. 
-You name your test, add a variety of questions and at the end
-you are able to take the test you have created.
+ATM machine simulation, checking your balance, depositing and withdrawing money, and check account information. 
 
 ## Prerequisites
 
